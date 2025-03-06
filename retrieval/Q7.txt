@@ -1,0 +1,50 @@
+Query: How can I get immediate support for suicidal thoughts?
+
+Index: 0
+Question: How can I provide immediate support to someone at risk of suicide?
+Answer: - Learn how to recognize potential signs of distress and suicide risk
+- Ask about suicidal thoughts
+- Effectively respond to students in distress using interpersonal skills
+- Connect individuals to SFU and community-based services
+- Attend the Suicide Prevention and Awareness Workshop
+- Take the Online Course
+- Contact Registered Clinical Counsellors for support 
+- Offer a caring and empathetic atmosphere
+- Learn about stigma reduction
+- Support the Hi-FIVE Movement for Mental Health Program at SFU
+File: 0_9_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/suicide-prevention.html#course
+Similarity: 0.9412435933622209
+
+Index: 1
+Question: Who can I call if I or someone I know is having thoughts of suicide?
+Answer: 1-800-784-2433 (1-800-SUICIDE)
+Local crisis centre
+Burnaby campus: 778.782.4615
+Vancouver campus: 778.782.5200
+Surrey campus: 778.782.5200
+File: 0_3_4
+URL: https://www.sfu.ca/students/health/get-support/talk-now.html
+Similarity: 0.9282715530865933
+
+Index: 2
+Question: Who can I contact if I or someone I know is having thoughts of suicide?
+Answer: 1-800-784-2433 (1-800-SUICIDE)
+Crisis Centre of BC online chat:
+- www.crisiscentrechat.ca (for adults)
+- www.youthinbc.com (for youth)
+File: 0_4
+URL: https://www.sfu.ca/students/health/emergency.html
+Similarity: 0.9272146631393869
+
+Index: 3
+Question: How can I clarify what help looks like for someone struggling with thoughts of suicide?
+Answer: - Assure people that services are confidential
+- Encourage them to reach out to mental health professionals
+- Offer resources and referrals as needed
+- Acknowledge the student's choice to take the referral
+- Reinforce that taking that step may help them reach positive change
+File: 0_8_15
+URL: https://www.sfu.ca/healthycampuscommunity/learningenvironments/resource-library/resources/recognizing-referring-students-in-difficulty.html
+Similarity: 0.9101938952347087
+

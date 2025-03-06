@@ -1,0 +1,16 @@
+Query: How can I schedule an appointment?
+
+Index: 0
+Question: How can I book an appointment online with some care providers?
+Answer: You can book an appointment online with some care providers through the online booking system being set up by Health & Counselling.
+File: 0_6
+URL: https://www.sfu.ca/students/health/contact-us/accessibility.html
+Similarity: 0.9065265343216364
+
+Index: 1
+Question: How can students book appointments for medical services?
+Answer: Students can book appointments for medical services by calling the Health & Counselling clinics on the Burnaby or Vancouver campuses, or by booking online. Appointments can be made for in-person or by phone/virtual consultations.
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.9043802926724296
+

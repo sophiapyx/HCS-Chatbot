@@ -1,0 +1,85 @@
+Query: How can SFU students book appointments for consultations?
+
+Index: 0
+Question: How can SFU students schedule health appointments?
+Answer: Appointments can be scheduled in-person, virtually, or online.
+File: 0_1
+URL: https://www.sfu.ca/students/health/contact-us.html
+Similarity: 0.9594150187505754
+
+Index: 1
+Question: How can I book an appointment with a service provider at Health and Counselling Services at SFU?
+Answer: You can call ahead to book an appointment with a service provider at Health and Counselling Services at SFU.
+File: 0_9_2_1
+URL: https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf
+Similarity: 0.9570879924610733
+
+Index: 2
+Question: How can I book an appointment with a case manager at SFU?
+Answer: You can book an appointment by calling 778 782 5699 or emailing ssrr@sfu.ca.
+File: 0_1_1_13
+URL: https://www.sfu.ca/students/studentsupport/contact-us.html
+Similarity: 0.9438297975204929
+
+Index: 3
+Question: Are there online booking options for appointments at SFU Health & Counselling services?
+Answer: Yes, there are online booking options available for appointments at SFU Health & Counselling services.
+File: 0_1
+URL: https://www.sfu.ca/students/health/contact-us.html
+Similarity: 0.9405599031460585
+
+Index: 4
+Question: How can SFU students access counselling services online?
+Answer: - Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor who can then refer you to Tricia-Kay during your intake appointment
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.9327767719750031
+
+Index: 5
+Question: How can SFU students access the health and counselling services on campus?
+Answer: SFU students can access health and counselling services on campus by visiting the student health clinics on Burnaby and Vancouver campus, booking appointments with doctors and nurses, and exploring resources and support options available. Services are provided in-person, virtually, or by phone at no cost to SFU students.
+File: 0
+URL: https://www.sfu.ca/students/health/
+Similarity: 0.9317755968375354
+
+Index: 6
+Question: How can students book appointments for medical services?
+Answer: Students can book appointments for medical services by calling the Health & Counselling clinics on the Burnaby or Vancouver campuses, or by booking online. Appointments can be made for in-person or by phone/virtual consultations.
+File: 0_2
+URL: https://www.sfu.ca/students/health/see-a-doctor.html
+Similarity: 0.9255342385602073
+
+Index: 7
+Question: How can Black SFU students access no-cost one-to-one counselling?
+Answer: - Book a Rapid Access Appointment directly with Tricia-Kay Williams
+- Appointments can be made for in person, virtually, or by phone
+- Book online with any counsellor and request to be referred to Tricia-Kay during intake appointment
+File: 0_3_2_6
+URL: https://www.sfu.ca/students/health/resources/identity/black-students.html
+Similarity: 0.9119242333390876
+
+Index: 8
+Question: How can students access counseling services at SFU across different campuses?
+Answer: - Contact your CAL disability advisor
+- Register for the 'Experiencing ADHD' group
+- Email Sean for questions about individual or group counselling (sean_heaslip@sfu.ca)
+- Call Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+- View the PDF version of the counseling services
+- Check out Upcoming Session for any updated times or changes to the sessions.
+File: 0_1_4_4
+URL: https://www.sfu.ca/students/health/get-support/support-groups/groups/experiencing-adhd.html
+Similarity: 0.9108877522671271
+
+Index: 9
+Question: How can I access free, confidential counselling support as an SFU student?
+Answer: - Through the My SSP app
+- Contact the front desk during operating hours at 778-782-4615
+- Call the Crisis Centre in BC or Canada 24/7/365
+- Call the crisis line at 1-800-784-2433 (1-800-SUICIDE)
+- Contact the Crisis Centre at Burnaby campus: 778.782.4615, Vancouver campus: 778.782.5200, Surrey campus: 778.782.5200
+File: 0_3_4
+URL: https://www.sfu.ca/students/health/get-support/talk-now.html
+Similarity: 0.9107224400761471
+

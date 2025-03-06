@@ -1,0 +1,51 @@
+User>>Hi
+
+Bot>> Hello! How can I assist you today? If you have a specific question or need information on a particular topic, please let me know so I can provide you with the most accurate information.
+
+User>>How cam I book an appointment?
+
+Bot>> To book an appointment with care providers at SFU Health & Counselling, you can do so through the online booking system that is available. Additionally, you can also book appointments for medical services by calling the Health & Counselling clinics on the Burnaby or Vancouver campuses, or by booking online for in-person or phone/virtual consultations. For more information, you can visit the following URLs: 
+1. [Accessibility at SFU Health & Counselling](https://www.sfu.ca/students/health/contact-us/accessibility.html)
+2. [Booking Appointments for Medical Services](https://www.sfu.ca/students/health/see-a-doctor.html)
+
+User>>Hi
+
+Bot>> Hello! How can I assist you today? If you have a specific question or need information on a particular topic, please provide more details so I can help you effectively.
+
+User>>What services SFU counselling is offering
+
+Bot>> SFU Health & Counselling Services offer a range of resources and support services to students, including health and well-being outreach events/programs, qualitative evaluations, and support services in collaboration with other university departments. Additionally, counselling services include free, confidential, time-limited support such as initial consultations, workshops, crisis intervention, safety planning, and individual/group counselling by qualified professionals. Specialized counselling options are also available to address various student concerns. For more detailed information, you can refer to the following URLs: [SFU Health & Counselling Services](https://www.sfu.ca/healthycampuscommunity/about/wellbeing-framework.html) and [SFU Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>how can I get consultations?
+
+Bot>> To access consultations at SFU, students can visit the student health clinics on Burnaby and Vancouver campuses, book appointments with healthcare professionals, and explore available resources and support options. Consultations can be in-person, virtual, or by phone, and are provided at no cost to SFU students. For online counselling services, students can book a Rapid Access Appointment directly with Tricia-Kay Williams or book an appointment with any counsellor who can then refer you to Tricia-Kay during the intake process. For more information on accessing health and counselling services, please visit the following URLs: [SFU Health Services](https://www.sfu.ca/students/health/) and [SFU Counselling Resources](https://www.sfu.ca/students/health/resources/identity/black-students.html).
+
+User>>How can I book an appointment
+
+Bot>> To book an appointment with a service provider at SFU Health and Counselling Services, you can schedule appointments in-person, virtually, or online. Simply call ahead to book your appointment with a service provider. For more information on scheduling health appointments and booking service provider appointments, please refer to the following URLs: [SFU Health Services Contact Information](https://www.sfu.ca/students/health/contact-us.html) and [SFU Graduate Student Support Document](https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf).
+
+User>>I feel suicidal
+
+Bot>> If you or someone you know is feeling suicidal, it's essential to reach out for help immediately. You can call the 24/7 crisis line at 1-800-784-2433 (1-800-SUICIDE) or contact your local crisis center. For support within the SFU community, you can reach out to the following campus numbers: 
+- Burnaby campus: 778.782.4615
+- Vancouver campus: 778.782.5200
+- Surrey campus: 778.782.5200
+
+Additionally, you can provide immediate support by learning to recognize signs of distress, asking about suicidal thoughts, connecting individuals to services, and offering a caring and empathetic atmosphere. It's important to attend workshops, take online courses, contact Registered Clinical Counsellors, and support mental health initiatives like the Hi-FIVE Movement for Mental Health Program at SFU. For more information on suicide prevention resources and immediate support options, please visit the following URLs: [SFU Suicide Prevention Workshops](https://www.sfu.ca/students/health/get-support/support-groups/groups/suicide-prevention.html#course) and [SFU Crisis Support](https://www.sfu.ca/students/health/get-support/talk-now.html). Remember, help is available, and you are not alone.
+
+User>>Are you a counsellor
+
+Bot>> I am not a counsellor. However, there are many counselling programs and groups available in the community that offer mental health support. If you are seeking counselling services, you can explore the resources provided by SFU Health & Counselling Services by visiting the following URL: [SFU Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). Remember, reaching out for support is important, and there are resources available to help you.
+
+User>>I need urgent help
+
+Bot>> If you need urgent help, it's important to reach out for support immediately. You can access resources for mental health and substance use support through e-newsletters that feature valuable information and resources. Additionally, there are leading non-profit agencies working together to provide assistance in managing mental health and substance use concerns. For immediate help, you can explore counselling services provided by SFU Health & Counselling Services by visiting the following URL: [SFU Counselling Services](https://www.sfu.ca/students/health/support-resources/counselling-services.html). You can also find helpful information and resources related to anxiety disorders at [Here to Help BC](https://www.heretohelp.bc.ca/anxiety-disorders). Remember, help is available, and it's essential to seek support when you need it.
+
+User>>Tell me about any specific help for black students
+
+Bot>> Specific mental health resources and support are available for the Black community at SFU, including affiliated groups, useful documents, and resources tailored to support the mental health needs of Black students. These resources aim to provide culturally relevant and sensitive support to address mental health challenges within the Black community. For more information on mental health resources for the Black community at SFU, please visit the following URL: [SFU Black Community Resources](https://www.sfu.ca/black-caucus/black-community-resources.html). Additionally, you can find valuable information on anxiety disorders and other mental health topics at [Here to Help BC](https://www.heretohelp.bc.ca/anxiety-disorders). Remember, reaching out for help is important, and there are resources available to support you.
+
+User>>I am an international student, are there any help specific for different languages?
+
+Bot>> As an international student at SFU, there is support available in various languages to assist you. The International Student Advising Program provides assistance in different languages to address your specific needs. You can contact Ricky Tu at ricky_tu@sfu.ca or 778-782-4615 for support tailored to international students. For more information on international student support services, including language-specific assistance, please visit the following URLs: [SFU International Student Advising Program Contacts](https://www.sfu.ca/students/isap/contact.html) and [SFU Graduate Student Support Document](https://www.sfu.ca/content/dam/sfu/students/health/pdf/Grad%20Student%20Support%20Doc.pdf). Remember, help is available to ensure your success and well-being as an international student at SFU.
+

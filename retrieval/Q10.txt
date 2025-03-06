@@ -1,0 +1,53 @@
+Query: What specific mental health and substance use support resources are available for black students?
+
+Index: 0
+Question: What resources are available for mental health and substance use support?
+Answer: - E-newsletters featuring mental health and substance use resources
+- Seven leading mental health and substance use non-profit agencies working together to help people live well and better prevent and manage mental health and substance use problems
+File: 0_3_9_15
+URL: https://www.heretohelp.bc.ca/anxiety-disorders
+Similarity: 0.9234732754170767
+
+Index: 1
+Question: What kind of mental health resources are available for the Black community at SFU?
+Answer: Mental health resources, affiliated groups, and useful documents for the Black community.
+File: 0_3_7_4
+URL: https://www.sfu.ca/black-caucus/black-community-resources.html
+Similarity: 0.9169861670303852
+
+Index: 2
+Question: What resources are available for mental health support and counseling services for graduate students?
+Answer: Health & Counselling has various professionals available including registered clinical counsellors, psychologists, psychiatrists, social workers, and mental health nurses. My SSP service is also available for graduate students.
+File: 0_9
+URL: https://www.sfu.ca/students/health/graduate-students.html
+Similarity: 0.9088404755772711
+
+Index: 3
+Question: What resources are available to promote well-being and mental health among students?
+Answer: - Flexible deadlines for assignments
+- Centre for Accessible Learning’s Top Ten Tips to Making Online Learning Accessible
+- Class Check In Activity
+- Connecting with students and showing empathy
+- Equity considerations for students' psychological experiences
+- PowerPoint slides to promote well-being
+- Health & Counselling Services’ resources, events, and workshops
+- Reality Check Reflection Tool
+- Group-generated Study Guide
+- In the News Activity
+- Guest lectures and learning opportunities
+- Small acts of kindness
+- Employee and Family Assistance Plan
+- SFU Health Promotion team
+- Centre for Educational Excellence (CEE) workshops and consultations
+- Traditional territorial acknowledgements for courses.
+File: 0_8_12
+URL: https://www.sfu.ca/content/sfu/healthycampuscommunity/learningenvironments/resource-library/resources/embed-well-being-remotely.html
+Similarity: 0.9021402413012649
+
+Index: 4
+Question: How can students access counseling and mental health support?
+Answer: Students can access counseling and mental health support by visiting the Counseling and Mental Health Support office located at SUB 3100, 8888 University Drive, Simon Fraser University, Burnaby, BC, V5A 1S6, Monday to Friday from 10am to 4pm.
+File: 0_1_4_8
+URL: https://sfss.ca/services/student-advocacy-office/
+Similarity: 0.9018273824805364
+

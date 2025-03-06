@@ -1,0 +1,17 @@
+Query: Are there immediate mental health resources available for urgent help?
+
+Index: 0
+Question: Are there community resources available for counselling and mental health support?
+Answer: - Many counselling programs and groups are available in the community
+File: 0_3_2
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.9285486962857104
+
+Index: 1
+Question: What resources are available for mental health and substance use support?
+Answer: - E-newsletters featuring mental health and substance use resources
+- Seven leading mental health and substance use non-profit agencies working together to help people live well and better prevent and manage mental health and substance use problems
+File: 0_3_9_15
+URL: https://www.heretohelp.bc.ca/anxiety-disorders
+Similarity: 0.9025688430997602
+
